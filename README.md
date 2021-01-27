@@ -1,5 +1,7 @@
 # Dina Podolny Data Analysis Projects Portfolio
 
+I’m a data-driven perfectionist who graduated from the Yandex100 Data Analysis exclusive program. I see myself as an entrepreneur of data and its patterns to the business insights for the stakeholders. As a critical thinker with an M.A. in Philosophy, I make it my mission to see the bigger picture and opportunities for business to grow. I enjoy the process of structuring data, formulating and testing hypotheses, drawing meaningful conclusions that help take business decisions.
+
 ## Projects
 
 - **Business Analytics Project**
