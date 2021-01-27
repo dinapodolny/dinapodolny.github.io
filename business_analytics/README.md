@@ -4,7 +4,7 @@ Working with data on Yandex.Afisha marketing and users behavior indications for 
 
 Goal of the project: to analyze the performance of different add sources over time and formulate recommendations for the upcoming period.
 
-[Link to the project](/business_analytics.html)
+[Link to the project](https://dinapodolny.github.io/business_analytics/business_analytics.html)
 
 ## Tasks:
 

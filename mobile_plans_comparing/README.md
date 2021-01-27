@@ -2,7 +2,7 @@
 
 Goal of the project: decide which of the mobile plans brings in more revenue in order to adjust the advertising budget.
 
-[Link to the project](/mobile_plans_comparing.html)
+[Link to the project](https://dinapodolny.github.io/mobile_plans_comparing/mobile_plans_comparing.html)
 
 ## Tasks: 
 

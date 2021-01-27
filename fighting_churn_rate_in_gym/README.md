@@ -2,7 +2,7 @@
 
 Goal of the project: suggest measures to cut churn and increase retention of the gym's clients based on the predictive model.
 
-[Link to the project](/fighting_churn_rate_in_gym.html)
+[Link to the project](https://dinapodolny.github.io/fighting_churn_rate_in_gym/fighting_churn_rate_in_gym.htmll)
   
 ## Tasks
 

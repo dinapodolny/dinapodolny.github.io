@@ -4,7 +4,7 @@ Together with the marketing department, we've compiled a list of hypotheses that
 
 Goal of the project: make a decision based on the test decide whether the test was successful or not and whether it is worth continuing after the first month.
 
-[Link to the project](/business_decisions.html)
+[Link to the project](https://dinapodolny.github.io/business_decisions/business_decisions.htmll)
 
 ## Tasks:
 

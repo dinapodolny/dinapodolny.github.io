@@ -2,7 +2,7 @@
 
 Goal of the project: to investigate user behavior for the company's app and make a conclusion about the introduction of the new fonts to the app's interface.
 
-[Link to the project](/user_behavior_food_company.html)
+[Link to the project](https://dinapodolny.github.io/user_behavior_food_company/user_behavior_food_company.html)
 
 ## Tasks: 
 

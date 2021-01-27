@@ -2,7 +2,7 @@
 
 Goal of the project: to analyze the store's product range, revenue, average check, ARPPU in dynamics for the project managers responsible for the product range to optimize purchases.
 
-[Link to the project](/ecommerce_product_range.html)
+[Link to the project](https://dinapodolny.github.io/ecommerce_product_range/ecommerce_product_range.html)
 
 ## Tasks: 
 

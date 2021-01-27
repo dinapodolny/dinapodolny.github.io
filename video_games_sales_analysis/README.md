@@ -2,7 +2,7 @@
 
 Goal of the project: to identify patterns that determine whether a game succeeds or not in order to spot potential big winners and plan advertising campaigns.
 
-[Link to the project](/video_games_sales_analysis.html)
+[Link to the project](https://dinapodolny.github.io/video_games_sales_analysis/video_games_sales_analysis.html)
 
 ## Tasks: 
 
