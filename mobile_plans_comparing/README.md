@@ -19,4 +19,4 @@ Goal of the project: decide which of the mobile plans brings in more revenue in 
 
 ## My Contacts
 Dina Podolny 
-dina.podolny@gmail.com | [LinkedIn](linkedin.com/in/dina-podolny)
+dina.podolny@gmail.com | [LinkedIn](https://linkedin.com/in/dina-podolny)

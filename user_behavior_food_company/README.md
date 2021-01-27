@@ -20,4 +20,4 @@ Goal of the project: to investigate user behavior for the company's app and make
 
 ## My Contacts
 Dina Podolny 
-dina.podolny@gmail.com | [LinkedIn](linkedin.com/in/dina-podolny)
+dina.podolny@gmail.com | [LinkedIn](https://linkedin.com/in/dina-podolny)
